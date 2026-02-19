@@ -2,7 +2,7 @@
 Calculate basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Usage
-Must have rust, cargo, rustup, git etc.
+Must have cargo, rustup, git etc.
 ```cmd
 git clone https://github.com/ghasaqillayl/calc
 cd calc
